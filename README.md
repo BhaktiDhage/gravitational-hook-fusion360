@@ -6,7 +6,8 @@ pivot joints, so it can be tested and animated.
 
 ## 📸 Preview
 <!-- Add a render, screenshot or GIF of the motion here -->
-![Gravitational Hook]
+![Gravitational Hook] <img width="1920" height="1035" alt="image" src="https://github.com/user-attachments/assets/dc46d80f-c690-4b8a-bf79-8d5bb620e364" />
+
 
 
 ## 📖 About
